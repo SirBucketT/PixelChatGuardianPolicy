@@ -116,6 +116,15 @@ The Application does not address anyone under the age of 13\\. The Service Provi
 
 The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
+\*\*Deleting an account\*\*
+
+Deleting and account would invalidate it from all future use.
+
+Here are the steps to delete your account.
+
+Email: ben@schooloncloud.asia with the subject: Account Deletion. In the email, send us your email adress that you have used to create your account.
+We will notify you when your account has been successfully deleted.
+To ensure that the acccount is removed your the device, delete the application from your device.
 
 
 \*\*Changes\*\*
@@ -126,7 +135,7 @@ This Privacy Policy may be updated from time to time for any reason. The Service
 
 
 
-This privacy policy is effective as of 2025-08-18
+This privacy policy is effective as of 2025-09-26
 
 
 
